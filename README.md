@@ -5,6 +5,8 @@
 
 This repository contains the **training source code** and **game rules**, which are used to generate intelligent agents—the AI that powers the bots in the [President Card Game App](https://github.com/marcosdizn/President_Card_Game_App) repository.
 
+---
+
 ## ✨ Features
 - 🃏 **Game Logic Implementation** – Faithfully replicates the President card game rules.
 - 🤖 **AI-Powered Opponents** – Uses a **genetic algorithm**, an unsupervised machine learning approach, for decision-making.
