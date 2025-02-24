@@ -34,6 +34,7 @@ Training can take a long time, especially with a large population.
 Modifying training parameters in entrenar.java is not recommended unless you understand the impact.
 
 ## IA Explanation
+![AI Schema](https://github.com/marcosdizn/President_Card_Game_Intelligence/blob/main/AI_Schema.png?raw=true)
 
 ### Layers
 Our AI works with a neural network that consists of:
