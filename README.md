@@ -79,3 +79,6 @@ The AI is trained using a **genetic algorithm**:
 - Each network has a **unique ID** and **generation number**.
 - A user interface allows visual verification of AI decision-making.
 
+## Contributing
+Feel free to fork this repository and submit issues or pull requests. Contributions are always welcome!
+
