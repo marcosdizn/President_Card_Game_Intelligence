@@ -3,7 +3,7 @@
 ## Introduction
 **President** is a Java-based project that simulates the popular card game *President*. This project focuses on AI-driven gameplay, where opponents learn and improve through training. It is designed for research and experimentation in **artificial intelligence and game strategy**.
 
-This repository contains the **training source code** and **game rules**, which are used to generate intelligent agents—the AI that powers the bots in the [President Card Game App](https://github.com/marcosdizn/President_Card_Game_App) repository.
+This repository contains the **training source code** and **game rules**, which are used to generate intelligent agents, the AI that powers the bots in the [President Card Game App](https://github.com/marcosdizn/President_Card_Game_App) repository.
 
 ## Features
 - 🃏 **Game Logic Implementation** – Faithfully replicates the President card game rules.
