@@ -1,24 +1,30 @@
 # Presidente
 
 ## Introduction
-**Presidente** is a Java-based project that simulates the popular card game *President*. The game features an AI opponent that learns and improves through training. It is designed for research and experimentation with artificial intelligence in game strategy.
+**Presidente** is a Java-based project that simulates the popular card game *President*. The game features AI opponents that learn and improve through training. It is designed for research and experimentation with artificial intelligence in game strategy.
+
+In this proyect we have the **training source code** and **game rules**, which we use to generate intelligent agents, the AI that powers the bots in the [President Card Game App](https://github.com/marcosdizn/President_Card_Game_App).
 
 ## Features
 - **Game Logic Core**: Implements the rules of the President card game.
-- **Artificial Intelligence**: Uses machine learning for decision-making.
+- **Artificial Intelligence**: Uses  **genetic algorithm** which is  an unsupervised machine learning algorithm for decision-making.
 - **Training Scripts**: Includes scripts for training and evaluating the AI.
 
 ## Setup & Execution
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/pablorejo/presidente.git
-   ```
+ ```sh
+  git clone https://github.com/marcosdizn/President_Card_Game_Intelligence/
+  ```
 2. Navigate to the project folder.
+ ```sh
+  cd President_Card_Game_Intelligence/
+  ```
    
-3. To train the AI (Windows):
-  ```sh
+4. To train the AI (Windows):
+ ```sh
   ejecutar.bat
   ```
+
 4. To test AI training:
  ```sh
   verEntrenamiento.bat
@@ -72,7 +78,3 @@ The AI is trained using a **genetic algorithm**:
 - Each network has a **unique ID** and **generation number**.
 - A user interface allows visual verification of AI decision-making.
 
-## Setup & Execution
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/marcosdizn/President_Card_Game_Intelligence/
